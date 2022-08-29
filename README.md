@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/kimphu.svg" width="1200" alt="kimphudev-official" />
+  <img src="svg/trungquan.svg" width="1200" alt="trungquandev-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
